@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9159acc4-150c-4609-b568-be18b5c0eb63" name="Default Changelist" comment="" />
+    <list default="true" id="9159acc4-150c-4609-b568-be18b5c0eb63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/cool-background (1).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/movies.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/movies.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/movies.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/movies.ejs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fOcUO2EuS2NbPIhz7LmSccOLCn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +52,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\untitled2\public\images" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -82,7 +97,7 @@
       <workItem from="1596308181609" duration="8976000" />
       <workItem from="1596388340070" duration="9422000" />
       <workItem from="1596479355346" duration="9006000" />
-      <workItem from="1606125725023" duration="1288000" />
+      <workItem from="1606125725023" duration="3182000" />
     </task>
     <servers />
   </component>
@@ -90,6 +105,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="646" y="309" key="Github.ShareDialog" timestamp="1606127507169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="646" y="309" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1606127507169" />
+    <state x="566" y="25" key="Github.UntrackedFilesDialog" timestamp="1606127562122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="25" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606127562122" />
     <state width="1491" height="209" key="GridCell.Tab.0.bottom" timestamp="1606126003017">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

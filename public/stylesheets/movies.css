@@ -3,8 +3,10 @@ body{
     text-align: center;
     font-weight: bold;
     font-family: "JetBrains Mono", cursive;
-    background: #00B7FF;
-    color: darkcyan;
+    background-image: url("../images/cool-background (1).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
     width: 100%;
 }
 h1{
@@ -12,11 +14,35 @@ h1{
     text-decoration: underline;
 }
 input{
+    background-color: white;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: black;
+    text-align: center;
+    font-size: 28px;
     padding: 10px;
-    border: 2px solid darkmagenta;
-
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
 }
 .done{
     text-decoration: line-through;
 }
-
+.press{
+    background-color: #7b38d8;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
