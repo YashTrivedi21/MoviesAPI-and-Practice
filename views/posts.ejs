@@ -1,0 +1,13 @@
+<html lang="en">
+<head>
+    <link rel='stylesheet' href='/stylesheets/posts.css' />
+    <title>Posts</title>
+</head>
+<body>
+<h1>The Posts</h1>
+<% for (var i = 0; i < posts.length; i++) {%>
+    <li><%=posts[i].title%> &nbsp <%=posts[i].author%></li>
+<%}%>
+</body>
+</html>
+

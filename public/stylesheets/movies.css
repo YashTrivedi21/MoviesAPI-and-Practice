@@ -1,0 +1,22 @@
+body{
+    align-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-family: "JetBrains Mono", cursive;
+    background: #00B7FF;
+    color: darkcyan;
+    width: 100%;
+}
+h1{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+input{
+    padding: 10px;
+    border: 2px solid darkmagenta;
+
+}
+.done{
+    text-decoration: line-through;
+}
+

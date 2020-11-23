@@ -1,0 +1,11 @@
+h1,li{
+    font-family: "JetBrains Mono", cursive;
+    color: #00B7FF;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+body{
+    background: red;
+    align-content: center;
+}

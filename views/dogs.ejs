@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <title>Everything about dogs</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<body>
+<% if (dog==='doggo') {%>
+    <p>Yeah! Doggo is the best</p>
+<%} else {%>
+    <p>Bad choice boi! Try again. :(</p><br>
+
+<%}%>
+<h1>The Holly <%= dog %></h1>
+<p> Say hello to <%= dog %></p>
+<p>hello there</p>
+
+<form method="post" action="/addDog">
+    <label>
+        <input type="text" name="dogName" placeholder="dog name here">
+    </label>
+    <button>Add the Dog!</button>
+</form>
+</body>
+</html>
